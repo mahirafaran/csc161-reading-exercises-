@@ -1,0 +1,33 @@
+#Question 1
+#Short is the length of the integer. Short is not longer than int and is
+#usually 16 bits
+#Int is the natural size of integers-between 16 and 32 bits 
+#Float is a single precision floating point
+#Double is a double precision floating point
+
+(don't know how to test these)
+
+#Question 2
+#int main(void) {
+ float y = (2 + 5)/2;
+  printf("%f /n",y);
+  }
+  
+3.000000
+because float rounds the answer
+
+#Question 3
+#int main (void){
+int i = 0;
+int j = 0;
+int x = i++;
+int y = ++j;
+printf("%d %d\n"i,j,x,y)
+}
+
+#answers are i=j=y=1, x=0
+
+#Because ++j increments j before its value is used and so x=1
+#++i increments i after its value is used so i is 0.
+
+
