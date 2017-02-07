@@ -1,0 +1,17 @@
+Program counter: 4
+
+The stack
+=========
+--- foo
+   x[5]
+--- main
+
+Program counter: 2
+
+The stack      output 
+=========     =======
+--- foo          5
+   x[5]
+--- main
+
+There is an error because the program runs as an infinite loop. 
