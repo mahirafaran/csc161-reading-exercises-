@@ -1,0 +1,3 @@
+Output is 0
+The main function is not returning anything. It is not dependent on x = 3
+that was set in the earlier function. 
