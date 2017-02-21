@@ -1,0 +1,7 @@
+Reading exercise 2/21
+
+1. 153 in Binary: 10011001
+2. Signed char: 01100111
+3. 10011001
+4. 10011001 (stores same value)
+
